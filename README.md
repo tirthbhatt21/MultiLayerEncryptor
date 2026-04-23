@@ -20,16 +20,18 @@ Built using WPF (.NET), it provides a clean interface and fast offline processin
 
 ## 🚀 Getting Started
 
+## 📥 Download
+
+👉 **Latest MSI Installer:**  
+https://github.com/tirthbhatt21/MultiLayerEncryptor/releases/latest/download/MultiEncryptor.msi  
+
+---
+
 ### 📥 Installation
 
-- Download the latest release of MultiEncryptor  
-- Extract the ZIP file (if applicable)  
-
-Run:
-
-```bash
-MultiEncryptor.exe
-```
+- Download the latest MSI installer from above  
+- Run the installer  
+- Follow the setup wizard  
 
 No additional setup required.
 
