@@ -23,7 +23,7 @@ Built using WPF (.NET), it provides a clean interface and fast offline processin
 ## 📥 Download
 
 👉 **Latest MSI Installer:**  
-https://github.com/tirthbhatt21/MultiLayerEncryptor/releases/latest/download/MultiEncryptor.msi  
+https://github.com/tirthbhatt21/MultiLayerEncryptor/releases/tag/Publish
 
 ---
 
